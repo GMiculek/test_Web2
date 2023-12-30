@@ -18,7 +18,7 @@ var parsedUrl = new URL(window.location.href);
 function query() {
    
         //location.replace('https://gmiculek.github.io/test_Web2/funfacts.html');
-		document.getElementById("response").innerHTML = "hi";
+		document.getElementById("response").className = "hi";
 		
 
 		

@@ -17,7 +17,7 @@ var parsedUrl = new URL(window.location.href);
 
 function query() {
    
-        location.replace('https://gmiculek.github.io/test_web/server/frontend/funfacts.html');
+        location.replace('https://gmiculek.github.io/test_Web2/funfacts.html');
 		
 
 		
@@ -25,7 +25,7 @@ function query() {
 
 function return() {
    
-        location.replace('https://gmiculek.github.io/test_web/server/frontend/index.html');
+        location.replace('https://gmiculek.github.io/test_Web2/index.html');
 		
 
 		

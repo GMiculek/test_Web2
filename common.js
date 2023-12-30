@@ -1,6 +1,6 @@
 var parsedUrl = new URL(window.location.href);
 
-function query() {
+/*function query() {
     fetch("http://" + parsedUrl.host + "/query", {
         method: "GET",
         mode: "no-cors",
@@ -12,4 +12,13 @@ function query() {
     .catch((err) => {
         console.log(err);
     })
+}*/
+
+
+function query() {
+   
+        location.replace('https://gmiculek.github.io/test_web/server/frontend/funfacts.html');
+		
+
+		
 }

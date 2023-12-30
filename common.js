@@ -17,8 +17,8 @@ var parsedUrl = new URL(window.location.href);
 
 function query() {
    
-        //location.replace('https://gmiculek.github.io/test_Web2/funfacts.html');
-		document.getElementById("response").className = "hi";
+        location.replace('https://gmiculek.github.io/test_Web2/funfacts.html');
+		//document.getElementById("response").className = "hi";
 		
 
 		
@@ -26,7 +26,7 @@ function query() {
 
 function return() {
    
-        location.replace('https://gmiculek.github.io/test_Web2/index.html');
+        //location.replace('https://gmiculek.github.io/test_Web2/index.html');
 		
 
 		
